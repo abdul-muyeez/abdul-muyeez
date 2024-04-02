@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">, I'm Abdul MUYEEZ</h1>
-<h3 align="center">Ex-Student at BAUST🌟.</h3>
+<h3 align="center">Ex-Student of BAUST🌟.</h3>
 <h3 align="center">Trainee at 💻 IT Training BD 🛠.</h3>
 
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=abdul-muyeez&label=Profile%20views&color=0e75b6&style=flat"
