@@ -1,4 +1,12 @@
-Hi, i'm Abdul MUYEEZ, a passionate self-taught SQA Engineer and a freelance QA engineer from Bangladesh. my passion for software develpoment lies with dreaming up error and BUG free and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">, I'm Abdul MUYEEZ</h1>
+<h3 align="center">Ex-Student at BAUST🌟.</h3>
+<h3 align="center">Trainee at 💻 IT Training BD 🛠.</h3>
+
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=abdul-muyeez&label=Profile%20views&color=0e75b6&style=flat"
+    alt="abdul-muyeez" /> 
+  </p>
+
+A passionate self-taught SQA Engineer and a freelance QA engineer from Bangladesh. my passion for software develpoment lies with dreaming up error and BUG free and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
