@@ -11,8 +11,7 @@ A passionate trained SQA Engineer and a freelance QA engineer from Bangladesh. M
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 ## Technical Skills:
-- **Manual Testing:** Analyzing clients
-   Requirements, Test Planning, Test
+- **Manual Testing:** Analyzing clients Requirements, Test Planning, Test
    Report,Test Case Design & Writing,
    Test Execution & Evaluation, Root
    Cause & Bug Reporting.
