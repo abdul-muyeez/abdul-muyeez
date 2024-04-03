@@ -63,13 +63,21 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <!-- TODO-IST:END -->
 
 
-<h4 align="left">📈 my github stats</h4>
+<h4 align="left">📈MY GitHub Stats </h4>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdul-muyeez&show_icons=true&locale=en&layout=compact" alt="abdul-muyeez" /></p>
+<p><img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=abdul-muyeez&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="abdul-muyeez" 
+    bg_color=#808080/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdul-muyeez&show_icons=true&locale=en" alt="abdul-muyeez" /></p>
+<br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdul-muyeez&" alt="abdul-muyeez" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdul-muyeez&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="abdul-muyeez" /></p>
+
+<br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdul-muyeez&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="abdul-muyeez" /></p>
 
 
 
