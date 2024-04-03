@@ -10,6 +10,21 @@ A passionate trained SQA Engineer and a freelance QA engineer from Bangladesh. M
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
+**Technical Skills:**
+- Manual Testing: Analyzing clients
+   Requirements, Test Planning, Test
+   Report,Test Case Design & Writing,
+   Test Execution & Evaluation, Root
+   Cause & Bug Reporting.
+- API Testing: Postman, Newman
+- Security Testing: Nmap, Burp Suite
+- Concepts: SDLC, STLC, OOP
+- Agile Management Tools: Jira
+- Language: HTML, JAVA, JavaScript
+- Version Control: GitHub
+- IDEs: VS Code & Android Studio
+
+
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💼 any freelance work? do reach, [abdulmuyeez](mailto:abdulmuyeez1406@gmail.com) :)
