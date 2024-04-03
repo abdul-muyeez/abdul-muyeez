@@ -6,11 +6,11 @@
     alt="abdul-muyeez" /> 
   </p>
 
-A passionate self-taught SQA Engineer and a freelance QA engineer from Bangladesh. my passion for software develpoment lies with dreaming up error and BUG free and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+A passionate trained SQA Engineer and a freelance QA engineer from Bangladesh. My passion for software develpoment lies with dreaming up Solid and BUG free product and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 - 🌱 I’m currently learning Software Quality Assurance (SQA) and other programming languages
 
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
@@ -29,7 +29,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **this week i spent my time on:**
+📊 **This week I spent my time on:**
 <!--START_SECTION:waka-->
 
 ```txt
