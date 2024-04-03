@@ -65,7 +65,9 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <h4 align="left">📈 my github stats</h4>
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=abdul-muyeez&show_icons=true&theme=gotham" alt="abdul-muyeez" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdul-muyeez&show_icons=true&locale=en&layout=compact" alt="abdul-muyeez" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdul-muyeez&show_icons=true&locale=en" alt="abdul-muyeez" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdul-muyeez&" alt="abdul-muyeez" /></p>
 
