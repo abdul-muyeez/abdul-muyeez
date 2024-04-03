@@ -69,7 +69,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdul-muyeez&show_icons=true&locale=en" alt="abdul-muyeez" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdul-muyeez&" alt="abdul-muyeez" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=abdul-muyeez&" alt="abdul-muyeez" /></p>
 
 
 
