@@ -74,6 +74,5 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdul-muyeez&" alt="abdul-muyeez" /></p>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="30"/> </a>
 
 
