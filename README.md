@@ -2,7 +2,6 @@
 <h3 align="center">Ex-Student of BAUST🌟.</h3>
 <h3 align="center">Trainee at 💻 IT Training BD 🛠.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdul-muyeez&label=Profile%20views&color=0e75b6&style=flat" alt="abdul-muyeez" /> </p>
 
 A passionate trained SQA Engineer and a freelance QA engineer from Bangladesh. My passion for software develpoment lies with dreaming up Solid and BUG free product and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
@@ -10,8 +9,7 @@ A passionate trained SQA Engineer and a freelance QA engineer from Bangladesh. M
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💼 any freelance work? do reach, [abdulmuyeez](mailto:abdulmuyeez1406@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
@@ -66,7 +64,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdul-muyeez&show_icons=true&locale=en&layout=compact" alt="abdul-muyeez" /></p>
 
-📈 my github stats
+<p>📈 my github stats </p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abdul-muyeez&show_icons=true&theme=gotham" alt="abdul-muyeez" />
 
