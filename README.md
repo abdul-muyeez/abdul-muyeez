@@ -62,7 +62,6 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 ⏳  Longest streak is 10 days
 <!-- TODO-IST:END -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdul-muyeez&show_icons=true&locale=en&layout=compact" alt="abdul-muyeez" /></p>
 
 <h4 align="left">📈 my github stats</h4>
 
