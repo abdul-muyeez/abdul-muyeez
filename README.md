@@ -1,3 +1,10 @@
+<h1 align="center">Hi 👋, I'm Abdul MUYEEZ</h1>
+<h3 align="center">A passionate Software Quality Assurance (SQA) Engineer</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdul-muyeez&label=Profile%20views&color=0e75b6&style=flat" alt="abdul-muyeez" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdul-muyeez" alt="abdul-muyeez" /></a> </p>
+
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">, I'm Abdul MUYEEZ</h1>
 <h3 align="center">Ex-Student of BAUST🌟.</h3>
 <h3 align="center">Trainee at 💻 IT Training BD 🛠.</h3>
