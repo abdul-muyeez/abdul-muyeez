@@ -15,8 +15,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - **API Testing:** Postman, Newman
 - **Security Testing:** Nmap, Burp Suite
 - **Concepts:** SDLC, STLC, OOP
-- **Agile Management Tools:** Jira
-- **Language:** HTML, JAVA, JavaScript, Python
+- **Agile Management Tools:** Jira
 - **Version Control:** GitHub
 - **IDEs:** VS Code & Android Studio
 
