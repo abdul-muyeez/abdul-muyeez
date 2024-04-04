@@ -15,13 +15,15 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - **API Testing:** Postman, Newman
 - **Security Testing:** Nmap, Burp Suite
 - **Concepts:** SDLC, STLC, OOP
-- **Agile Management Tools:** Jira
+- **Agile Management Tools:** Jira
+
 - **Version Control:** GitHub
 - **IDEs:** VS Code & Android Studio
 
 
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
+
+ 
 - 💼 any freelance work? do reach, [abdulmuyeez](mailto:abdulmuyeez1406@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
@@ -51,9 +53,9 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```txt
-JSON         29 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.93 %
-JavaScript   16 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.80 %
-Other        10 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.98 %
+Python       50 mins         ██████████░░░░░░░░░░░░░░░   41.93 %
+JavaScript   37 mins         ███████░░░░░░░░░░░░░░░░░░   37.80 %
+Other        20 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.98 %
 Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
 ```
 
