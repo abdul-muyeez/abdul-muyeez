@@ -6,9 +6,7 @@
 
 A highly motivated Software Quality Assurance Engineer with a diverse background in both traditional and freelance settings. I leverage a keen eye for detail and a commitment to user experience to deliver exceptional quality software. My passion lies in creating robust and bug-free products, and I achieve this by combining my technical expertise with a focus on designing elegant and intuitive interfaces. This ensures each product offers a seamless and user-friendly experience. 
 
-- 🌱 I’m currently learning Software Quality Assurance (SQA) and other programming languages
-
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+**🌱 I’m currently learning Software Quality Assurance (SQA) and other programming languages**
 
 ## Technical Skills:
 - **Manual Testing:** Analyzing clients Requirements, Test Planning, Test Report,Test Case Design & Writing, Test Execution & Evaluation, Root Cause & Bug Reporting.
