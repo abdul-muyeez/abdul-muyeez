@@ -52,10 +52,10 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```txt
-API Testing          50 mins         ██████████░░░░░░░░░░░░░░░   41.93 %
-Automation Testing   37 mins         ███████░░░░░░░░░░░░░░░░░░   37.80 %
-JavaScript           30 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.98 %
-Python               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+Postman          50 mins         ██████████░░░░░░░░░░░░░░░   41.93 %
+Python           37 mins         ███████░░░░░░░░░░░░░░░░░░   37.80 %
+JavaScript       30 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.98 %
+Bash             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
 ```
 
 
