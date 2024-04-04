@@ -15,8 +15,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - **API Testing:** Postman, Newman
 - **Security Testing:** Nmap, Burp Suite
 - **Concepts:** SDLC, STLC, OOP
-- **Agile Management Tools:** Jira
-
+- **Agile Methodology and Project Management Tool:** Jira
 - **Version Control:** GitHub
 - **IDEs:** VS Code & Android Studio
 
@@ -29,7 +28,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abdulmuyeez11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdulmuyeez11" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/abdulmuyeez11/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdulmuyeez11/" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -53,10 +52,10 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```txt
-Python       50 mins         ██████████░░░░░░░░░░░░░░░   41.93 %
-JavaScript   37 mins         ███████░░░░░░░░░░░░░░░░░░   37.80 %
-Other        20 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.98 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+API Testing          50 mins         ██████████░░░░░░░░░░░░░░░   41.93 %
+Automation Testing   37 mins         ███████░░░░░░░░░░░░░░░░░░   37.80 %
+JavaScript           30 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.98 %
+Python               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
 ```
 
 
