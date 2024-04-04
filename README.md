@@ -20,8 +20,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - **IDEs:** VS Code & Android Studio
 
 
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif?raw=true" width="500" height="500"" alt="adam-pw" /></p>
+ <br>
  
 - 💼 any freelance work? do reach, [abdulmuyeez](mailto:abdulmuyeez1406@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
