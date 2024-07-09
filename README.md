@@ -88,7 +88,4 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdul-muyeez&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="abdul-muyeez" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdul-muyeez" alt="abdul-muyeez" /></a> </p>
-
-
 
