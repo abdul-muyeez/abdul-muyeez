@@ -50,10 +50,10 @@ A highly motivated Software Quality Assurance Engineer with a diverse background
 <!--START_SECTION:waka-->
 
 ```txt
-Postman          50 mins         ██████████░░░░░░░░░░░░░░░   41.93 %
-Python           37 mins         ███████░░░░░░░░░░░░░░░░░░   37.80 %
-JavaScript       30 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.98 %
-Bash             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+Java             160 mins         █████████████░░░░░░░░░░░░   66.93 %
+Psotman          120 mins         ██████████░░░░░░░░░░░░░░░   50.80 %
+JavaScript       50  mins         ███████░░░░░░░░░░░░░░░░░░   39.98 %
+Bash             10  mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.49 %
 ```
 
 
