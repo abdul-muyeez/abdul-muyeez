@@ -4,9 +4,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdul-muyeez&label=Profile%20views&color=0e75b6&style=flat" alt="abdul-muyeez" /> </p>
 
+
 A highly motivated Software Quality Assurance Engineer with a diverse background in both traditional and freelance settings. I leverage a keen eye for detail and a commitment to user experience to deliver exceptional quality software. My passion lies in creating robust and bug-free products, and I achieve this by combining my technical expertise with a focus on designing elegant and intuitive interfaces. This ensures each product offers a seamless and user-friendly experience. 
 
 **🌱 I’m currently learning Software Quality Assurance (SQA) and other programming languages**
+
+<a href="https://linkedin.com/in/abdulmuyeez11/" target="blank">Test- Nerd</a>
 
 ## Technical Skills:
 - **Manual Testing:** Analyzing clients Requirements, Test Planning, Test Report,Test Case Design & Writing, Test Execution & Evaluation, Root Cause & Bug Reporting.
